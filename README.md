@@ -1,0 +1,2 @@
+# cubicwayapplication
+SampleJavaProject
